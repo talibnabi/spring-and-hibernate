@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CircularMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-circular.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Musician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-instrument.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CircularMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CircularMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -48,33 +48,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CircularMain">
-    <configuration name="CircularMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.CircularMain" />
-      <module name="spring-core-xml-based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.StudentMain" />
-      <module name="spring-core-xml-based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.company.core.CircularMain">
     <configuration name="Task (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task" />
       <module name="spring-core-xml-based" />
@@ -89,7 +63,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeacherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.company.core.CircularMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.CircularMain" />
+      <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.company.core.StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.StudentMain" />
+      <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.company.core.TeacherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.TeacherMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
@@ -104,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircularMain" />
-        <item itemvalue="Application.StudentMain" />
-        <item itemvalue="Application.TeacherMain" />
+        <item itemvalue="Application.com.company.core.CircularMain" />
+        <item itemvalue="Application.com.company.core.StudentMain" />
+        <item itemvalue="Application.com.company.core.TeacherMain" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.Task (1)" />
       </list>
@@ -120,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
-      <workItem from="1664512573419" duration="12809000" />
+      <workItem from="1664512573419" duration="13528000" />
     </task>
     <servers />
   </component>
