@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="" />
+    <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/TeacherMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collaboration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-constructor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +44,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Workspace/campProjects/azercellExercises",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArtistMain">
+  <component name="RunManager" selected="Application.TeacherMain">
     <configuration name="ArtistMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.ArtistMain" />
       <module name="spring-core-xml-based" />
@@ -55,8 +64,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.PersonMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.Main" />
+      <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="spring-core-xml-based" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="spring-core-xml-based" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.TeacherMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeacherMain" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Task (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArtistMain" />
-        <item itemvalue="Application.PersonMain" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
-      <workItem from="1664512573419" duration="3906000" />
+      <workItem from="1664512573419" duration="8423000" />
     </task>
     <servers />
   </component>

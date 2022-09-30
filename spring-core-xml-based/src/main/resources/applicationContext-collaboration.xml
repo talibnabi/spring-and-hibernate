@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="teacher" class="com.company.core.Teacher">
+        <constructor-arg type="java.lang.String" value="Hikmat"/>
+        <constructor-arg type="java.lang.String" value="Nasirov"/>
+        <constructor-arg type="com.company.core.Address" ref="address"/>
+    </bean>
+
+    <bean id="address" class="com.company.core.Address">
+        <property name="unitName" value="A-42"/>
+        <property name="area" value="Baku"/>
+        <property name="pin" value="123"/>
+        <property name="street" value="Bakixanov"/>
+    </bean>
+</beans>

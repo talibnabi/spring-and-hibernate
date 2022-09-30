@@ -20,7 +20,7 @@
 <!--        <constructor-arg index="2" value="Aliyev"/>-->
 <!--        <constructor-arg index="3" value="21"/>-->
 <!--    </bean>-->
-    <bean name="person4" class="com.company.core.Person">
+    <bean id="person4" class="com.company.core.Person">
         <constructor-arg type="long" value="4"/>
         <constructor-arg type="java.lang.String" value="Hikmat"/>
         <constructor-arg type="java.lang.String" value="Nasirov"/>
