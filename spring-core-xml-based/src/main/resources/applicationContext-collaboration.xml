@@ -9,10 +9,17 @@
         <constructor-arg type="com.company.core.Address" ref="address"/>
     </bean>
 
+    <bean id="student" class="com.company.core.Student">
+        <property name="firstName" value="Arif"/>
+        <property name="lastName" value="Salim"/>
+        <property name="address" ref="address"/>
+    </bean>
+
     <bean id="address" class="com.company.core.Address">
         <property name="unitName" value="A-42"/>
         <property name="area" value="Baku"/>
         <property name="pin" value="123"/>
         <property name="street" value="Bakixanov"/>
     </bean>
+
 </beans>
