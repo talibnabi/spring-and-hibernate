@@ -1,11 +1,14 @@
 package com.company.core;
 
+import java.beans.ConstructorProperties;
+
 public class Person {
     private long id;
     private String firstName;
     private String lastName;
     private int age;
 
+    @ConstructorProperties({"id","firstName","lastName","age"})
     public Person(long id, String firstName, String lastName, int age) {
         this.id = id;
         this.firstName = firstName;
