@@ -2,9 +2,8 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <import resource="applicationContext-instrument.xml"/>
-    <bean id="musician" class="com.company.core.Musician">
-        <property name="musicianName" value="Alisa"/>
-        <property name="instrument" ref="instrument"/>
+    <bean id="instrument" class="com.company.core.Instrument">
+        <property name="id" value="1"/>
+        <property name="instrumentName" value="Guitar"/>
     </bean>
 </beans>

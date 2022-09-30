@@ -48,10 +48,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.company.core.CircularMain">
-    <configuration name="Task (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task" />
+  <component name="RunManager" selected="Application.MusicianMain">
+    <configuration name="MusicianMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.MusicianMain" />
       <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MusicianMain" />
         <item itemvalue="Application.com.company.core.CircularMain" />
         <item itemvalue="Application.com.company.core.StudentMain" />
         <item itemvalue="Application.com.company.core.TeacherMain" />
         <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Task (1)" />
       </list>
     </recent_temporary>
   </component>
