@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/StudentMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-collaboration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collaboration.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
-      <workItem from="1664512573419" duration="10497000" />
+      <workItem from="1664512573419" duration="11285000" />
     </task>
     <servers />
   </component>
