@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    <bean name="person1" class="com.company.core.courseNote.Person">-->
+<!--        <constructor-arg name="id" value="1"/>-->
+<!--        <constructor-arg name="firstName" value="Alisa"/>-->
+<!--        <constructor-arg name="lastName" value="Aslan"/>-->
+<!--        <constructor-arg name="age" value="20"/>-->
+<!--    </bean>-->
+<!--    <bean name="person2" class="com.company.core.courseNote.Person">-->
+<!--        <constructor-arg name="id" value="2"/>-->
+<!--        <constructor-arg name="firstName" value="Aslan"/>-->
+<!--        <constructor-arg name="lastName" value="Amirov"/>-->
+<!--        <constructor-arg name="age" value="19"/>-->
+<!--    </bean>-->
+<!--    <bean name="person3" class="com.company.core.courseNote.Person">-->
+<!--        <constructor-arg index="0" value="3"/>-->
+<!--        <constructor-arg index="1" value="Nazim"/>-->
+<!--        <constructor-arg index="2" value="Aliyev"/>-->
+<!--        <constructor-arg index="3" value="21"/>-->
+<!--    </bean>-->
+    <bean id="person4" class="com.company.core.courseNote.Person">
+        <constructor-arg type="long" value="4"/>
+        <constructor-arg type="java.lang.String" value="Hikmat"/>
+        <constructor-arg type="java.lang.String" value="Nasirov"/>
+        <constructor-arg type="int" value="23"/>
+    </bean>
+</beans>

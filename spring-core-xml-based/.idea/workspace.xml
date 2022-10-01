@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/note/lazyInitialization/Holiday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/note/lazyInitialization/Workday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/note/app-context-lazy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/note/dependsOn/Aitaj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/note/dependsOn/Alisa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/note/dependsOn/Lamiya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/note/dependsOn/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/note/app-context-depends-on.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +55,13 @@
       <recent name="C:\Spring-Courses\spring-and-hibernate-for-beginners\spring-core-xml-based\src\main\resources\course" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.company.core.courseNote.InitMain">
     <configuration name="AlbumSongMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.course.AlbumSongMain" />
+      <option name="MAIN_CLASS_NAME" value="com.company.core.courseNote.AlbumSongMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.course.*" />
+          <option name="PATTERN" value="com.company.core.courseNote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.note.lazyInitialization.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.core.myNote.lazyInitialization.Main" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.note.lazyInitialization.*" />
+          <option name="PATTERN" value="com.company.core.myNote.lazyInitialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.course.CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.course.CollectionHolderMain" />
+    <configuration name="com.company.core.courseNote.CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.courseNote.CollectionHolderMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.course.*" />
+          <option name="PATTERN" value="com.company.core.courseNote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.course.EmailMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.course.EmailMenu" />
+    <configuration name="com.company.core.courseNote.EmailMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.courseNote.EmailMenu" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.course.*" />
+          <option name="PATTERN" value="com.company.core.courseNote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.course.InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.course.InitMain" />
+    <configuration name="com.company.core.courseNote.InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.courseNote.InitMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.course.*" />
+          <option name="PATTERN" value="com.company.core.courseNote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.company.core.AlbumSongMain" />
-        <item itemvalue="Application.com.company.core.course.InitMain" />
-        <item itemvalue="Application.com.company.core.course.EmailMenu" />
-        <item itemvalue="Application.com.company.core.course.CollectionHolderMain" />
+        <item itemvalue="Application.com.company.core.courseNote.InitMain" />
+        <item itemvalue="Application.com.company.core.myNote.lazyInitialization.Main" />
+        <item itemvalue="Application.com.company.core.courseNote.AlbumSongMain" />
+        <item itemvalue="Application.com.company.core.courseNote.EmailMenu" />
+        <item itemvalue="Application.com.company.core.courseNote.CollectionHolderMain" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="10491000" />
+      <workItem from="1664612061247" duration="11131000" />
     </task>
     <servers />
   </component>
