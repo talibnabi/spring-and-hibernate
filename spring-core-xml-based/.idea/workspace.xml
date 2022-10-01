@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Musician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-instrument.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CircularMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CircularMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,7 +43,8 @@
     "last_opened_file_path": "C:/Workspace/campProjects/azercellExercises",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "20f18043bd00031db6ca95786a6bb3a0"
   }
 }]]></component>
   <component name="RunManager" selected="Application.MusicianMain">
@@ -126,7 +125,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
-      <workItem from="1664512573419" duration="13528000" />
+      <workItem from="1664512573419" duration="13879000" />
+      <workItem from="1664612061247" duration="692000" />
     </task>
     <servers />
   </component>
