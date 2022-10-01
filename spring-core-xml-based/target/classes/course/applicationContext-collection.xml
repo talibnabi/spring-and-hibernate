@@ -2,7 +2,7 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="myCollection" class="com.company.core.CollectionHolder">
+    <bean id="myCollection" class="com.company.core.course.CollectionHolder">
         <property name="myList">
             <list>
                 <value>First list value</value>
@@ -39,13 +39,13 @@
             </map>
         </property>
     </bean>
-    <bean id="player1" class="com.company.core.Player">
+    <bean id="player1" class="com.company.core.course.Player">
         <constructor-arg name="name" value="Amanda"/>
     </bean>
-    <bean id="player2" class="com.company.core.Player">
+    <bean id="player2" class="com.company.core.course.Player">
         <constructor-arg name="name" value="Alisa"/>
     </bean>
-    <bean id="player3" class="com.company.core.Player">
+    <bean id="player3" class="com.company.core.course.Player">
         <constructor-arg name="name" value="Tural"/>
     </bean>
 </beans>

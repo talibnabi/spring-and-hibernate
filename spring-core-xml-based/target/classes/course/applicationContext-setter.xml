@@ -2,6 +2,10 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="init" class="com.company.core.Initializer"/>
-    <bean id="init-dependent" class="com.company.core.InitializerDependent" depends-on="init"/>
+
+    <bean id="artist" class="com.company.core.course.Artist">
+        <property name="artistId" value="1"/>
+        <property name="artistFirstName" value="Alisa"/>
+        <property name="artistLastName" value="Aslan"/>
+    </bean>
 </beans>
