@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="myCollection" class="com.company.core.CollectionHolder">
+        <property name="myList">
+            <list>
+                <value>First list value</value>
+                <value>Second list value</value>
+                <value>Third list value</value>
+            </list>
+        </property>
+        <property name="mySet">
+            <set>
+                <value>First set value</value>
+                <value>Second set value</value>
+                <value>Third set value</value>
+            </set>
+        </property>
+        <property name="myMap">
+            <map>
+                <entry key="First" value="map value 1"/>
+                <entry key="Second" value="map value 2"/>
+                <entry key="Third" value="map value 3"/>
+            </map>
+        </property>
+    </bean>
+</beans>

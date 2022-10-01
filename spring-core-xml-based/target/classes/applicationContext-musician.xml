@@ -7,5 +7,4 @@
         <property name="musicianName" value="Alisa"/>
         <property name="instrument" ref="instrument"/>
     </bean>
-
 </beans>

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-innerBean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/MusicianMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/MusicianMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,9 +47,9 @@
     "spring.configuration.checksum": "20f18043bd00031db6ca95786a6bb3a0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MusicianMain">
-    <configuration name="MusicianMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.MusicianMain" />
+  <component name="RunManager" selected="Application.CollectionHolderMain">
+    <configuration name="CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.CollectionHolderMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
@@ -62,9 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task" />
+    <configuration name="MusicianMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.MusicianMain" />
       <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionHolderMain" />
         <item itemvalue="Application.MusicianMain" />
         <item itemvalue="Application.com.company.core.CircularMain" />
         <item itemvalue="Application.com.company.core.StudentMain" />
         <item itemvalue="Application.com.company.core.TeacherMain" />
-        <item itemvalue="Application.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="1059000" />
+      <workItem from="1664612061247" duration="1819000" />
     </task>
     <servers />
   </component>
