@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext-collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext-collection.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="1819000" />
+      <workItem from="1664612061247" duration="3098000" />
     </task>
     <servers />
   </component>

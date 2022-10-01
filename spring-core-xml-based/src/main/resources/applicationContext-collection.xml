@@ -10,6 +10,13 @@
                 <value>Third list value</value>
             </list>
         </property>
+        <property name="players">
+            <list>
+                <ref bean="player1"/>
+                <ref bean="player2"/>
+                <ref bean="player3"/>
+            </list>
+        </property>
         <property name="mySet">
             <set>
                 <value>First set value</value>
@@ -24,5 +31,14 @@
                 <entry key="Third" value="map value 3"/>
             </map>
         </property>
+    </bean>
+    <bean id="player1" class="com.company.core.Player">
+        <constructor-arg name="name" value="Amanda"/>
+    </bean>
+    <bean id="player2" class="com.company.core.Player">
+        <constructor-arg name="name" value="Alisa"/>
+    </bean>
+    <bean id="player3" class="com.company.core.Player">
+        <constructor-arg name="name" value="Tural"/>
     </bean>
 </beans>
