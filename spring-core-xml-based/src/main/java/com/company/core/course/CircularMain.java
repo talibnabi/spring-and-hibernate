@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class CircularMain {
     public static void main(String[] args) {
-        ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext-circular.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("course/applicationContext-circular.xml");
         Department department = context.getBean("dept", Department.class);
 
     }
