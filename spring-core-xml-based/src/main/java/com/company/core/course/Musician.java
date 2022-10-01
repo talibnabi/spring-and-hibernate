@@ -1,4 +1,6 @@
-package com.company.core;
+package com.company.core.course;
+
+import com.company.core.course.Instrument;
 
 public class Musician {
     private String musicianName;

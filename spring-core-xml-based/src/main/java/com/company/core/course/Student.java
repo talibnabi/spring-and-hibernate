@@ -1,15 +1,11 @@
-package com.company.core;
+package com.company.core.course;
 
-public class Teacher {
+import com.company.core.course.Address;
+
+public class Student {
     private String firstName;
     private String lastName;
     private Address address;
-
-    public Teacher(String firstName, String lastName, Address address) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.address = address;
-    }
 
     public String getFirstName() {
         return firstName;
@@ -37,7 +33,7 @@ public class Teacher {
 
     @Override
     public String toString() {
-        return "Teacher{" +
+        return "Student{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", address=" + address +

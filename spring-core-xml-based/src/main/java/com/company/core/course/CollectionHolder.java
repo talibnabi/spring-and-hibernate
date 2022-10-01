@@ -1,4 +1,4 @@
-package com.company.core;
+package com.company.core.course;
 
 import java.util.List;
 import java.util.Map;

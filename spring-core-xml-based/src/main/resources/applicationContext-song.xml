@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="song" class="com.company.core.Song">
+    <bean id="song" class="com.company.core.course.Song">
         <property name="songName" value="Winter"/>
         <property name="song" value="Host"/>
     </bean>

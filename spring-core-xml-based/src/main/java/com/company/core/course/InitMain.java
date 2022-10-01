@@ -1,5 +1,6 @@
-package com.company.core;
+package com.company.core.course;
 
+import com.company.core.course.InitializerDependent;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

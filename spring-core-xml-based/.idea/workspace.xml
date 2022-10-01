@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="" />
+    <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/AlbumSongMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/AlbumSongMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/ArtistMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/ArtistMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CircularMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/CircularMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/CollectionHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/CollectionHolderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Details.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/EmailDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/EmailDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/EmailMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/EmailMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/InitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/InitMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Initializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Initializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/InitializerDependent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/InitializerDependent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Musician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Musician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/MusicianMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/MusicianMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/PersonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/TeacherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/course/TeacherMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-album.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-album.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-circular.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-circular.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-collaboration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collaboration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-collection-merge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection-merge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-constructor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-depends-on.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-depends-on.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-innerBean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-innerBean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-instrument.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-instrument.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-setter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-setter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-song.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-song.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +84,13 @@
     "spring.configuration.checksum": "20f18043bd00031db6ca95786a6bb3a0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AlbumSongMain">
+  <component name="RunManager" selected="Application.com.company.core.AlbumSongMain">
     <configuration name="AlbumSongMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.AlbumSongMain" />
+      <option name="MAIN_CLASS_NAME" value="com.company.core.course.AlbumSongMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
+          <option name="PATTERN" value="com.company.core.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.CollectionHolderMain" />
+    <configuration name="com.company.core.course.CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.course.CollectionHolderMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
+          <option name="PATTERN" value="com.company.core.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.EmailMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.EmailMenu" />
+    <configuration name="com.company.core.course.EmailMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.course.EmailMenu" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
+          <option name="PATTERN" value="com.company.core.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.InitMain" />
+    <configuration name="com.company.core.course.InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.course.InitMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
+          <option name="PATTERN" value="com.company.core.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.MusicianMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.MusicianMain" />
+    <configuration name="com.company.core.course.MusicianMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.course.MusicianMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
+          <option name="PATTERN" value="com.company.core.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlbumSongMain" />
-        <item itemvalue="Application.com.company.core.InitMain" />
-        <item itemvalue="Application.com.company.core.EmailMenu" />
-        <item itemvalue="Application.com.company.core.CollectionHolderMain" />
-        <item itemvalue="Application.com.company.core.MusicianMain" />
+        <item itemvalue="Application.com.company.core.AlbumSongMain" />
+        <item itemvalue="Application.com.company.core.course.InitMain" />
+        <item itemvalue="Application.com.company.core.course.EmailMenu" />
+        <item itemvalue="Application.com.company.core.course.CollectionHolderMain" />
+        <item itemvalue="Application.com.company.core.course.MusicianMain" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="9433000" />
+      <workItem from="1664612061247" duration="9836000" />
     </task>
     <servers />
   </component>

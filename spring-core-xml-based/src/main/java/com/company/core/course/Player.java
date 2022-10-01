@@ -1,4 +1,4 @@
-package com.company.core;
+package com.company.core.course;
 
 public class Player {
     private String name;

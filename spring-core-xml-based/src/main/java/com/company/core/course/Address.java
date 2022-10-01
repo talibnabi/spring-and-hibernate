@@ -1,4 +1,4 @@
-package com.company.core;
+package com.company.core.course;
 
 public class Address {
     private String unitName;
