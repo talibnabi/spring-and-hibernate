@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/EmailDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/EmailMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection-merge.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext-collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext-collection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Initializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/InitializerDependent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-depends-on.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="4893000" />
+      <workItem from="1664612061247" duration="5450000" />
     </task>
     <servers />
   </component>
