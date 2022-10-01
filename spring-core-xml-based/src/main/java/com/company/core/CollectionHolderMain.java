@@ -3,7 +3,6 @@ package com.company.core;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import java.util.List;
 
 public class CollectionHolderMain {
     public static void main(String[] args) {
@@ -16,5 +15,6 @@ public class CollectionHolderMain {
         System.out.println(holder.getMySet());
         System.out.println(holder.getMyMap());
         System.out.println(holder.getPlayers());
+        System.out.println(holder.getProperties());
     }
 }

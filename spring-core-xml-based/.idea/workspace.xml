@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/EmailDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/EmailMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-collection-merge.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/CollectionHolderMain.java" afterDir="false" />
@@ -20,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -50,9 +53,22 @@
     "spring.configuration.checksum": "20f18043bd00031db6ca95786a6bb3a0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CollectionHolderMain">
+  <component name="RunManager" selected="Application.EmailMenu">
     <configuration name="CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.CollectionHolderMain" />
+      <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.EmailMenu" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
@@ -103,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.TeacherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.TeacherMain" />
-      <module name="spring-core-xml-based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmailMenu" />
         <item itemvalue="Application.CollectionHolderMain" />
         <item itemvalue="Application.MusicianMain" />
         <item itemvalue="Application.com.company.core.CircularMain" />
         <item itemvalue="Application.com.company.core.StudentMain" />
-        <item itemvalue="Application.com.company.core.TeacherMain" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="3098000" />
+      <workItem from="1664612061247" duration="4893000" />
     </task>
     <servers />
   </component>

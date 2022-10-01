@@ -2,6 +2,7 @@ package com.company.core;
 
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Set;
 
 public class CollectionHolder {
@@ -9,6 +10,15 @@ public class CollectionHolder {
     private Set<String> mySet;
     private Map<String, String> myMap;
     private List<Player> players;
+    private Properties properties;
+
+    public Properties getProperties() {
+        return properties;
+    }
+
+    public void setProperties(Properties properties) {
+        this.properties = properties;
+    }
 
     public List<String> getMyList() {
         return myList;
