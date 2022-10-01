@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-innerBean.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-musician.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/MusicianMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/MusicianMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-core/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -126,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="692000" />
+      <workItem from="1664612061247" duration="1059000" />
     </task>
     <servers />
   </component>
