@@ -47,7 +47,7 @@
     "spring.configuration.checksum": "20f18043bd00031db6ca95786a6bb3a0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EmailMenu">
+  <component name="RunManager" selected="Application.InitMain">
     <configuration name="CollectionHolderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.CollectionHolderMain" />
       <module name="spring-core-xml-based" />
@@ -63,6 +63,19 @@
     </configuration>
     <configuration name="EmailMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.EmailMenu" />
+      <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.InitMain" />
       <module name="spring-core-xml-based" />
       <extension name="coverage">
         <pattern>
@@ -100,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.core.StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.StudentMain" />
-      <module name="spring-core-xml-based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.core.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InitMain" />
         <item itemvalue="Application.EmailMenu" />
         <item itemvalue="Application.CollectionHolderMain" />
         <item itemvalue="Application.MusicianMain" />
         <item itemvalue="Application.com.company.core.CircularMain" />
-        <item itemvalue="Application.com.company.core.StudentMain" />
       </list>
     </recent_temporary>
   </component>
