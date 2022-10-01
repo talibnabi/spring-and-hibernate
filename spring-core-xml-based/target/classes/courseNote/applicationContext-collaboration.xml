@@ -3,19 +3,19 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="teacher" class="com.company.core.course.Teacher">
+    <bean id="teacher" class="com.company.core.courseNote.Teacher">
         <constructor-arg type="java.lang.String" value="Hikmat"/>
         <constructor-arg type="java.lang.String" value="Nasirov"/>
-        <constructor-arg type="com.company.core.course.Address" ref="address"/>
+        <constructor-arg type="com.company.core.courseNote.Address" ref="address"/>
     </bean>
 
-    <bean id="student" class="com.company.core.course.Student">
+    <bean id="student" class="com.company.core.courseNote.Student">
         <property name="firstName" value="Arif"/>
         <property name="lastName" value="Salim"/>
         <property name="address" ref="address"/>
     </bean>
 
-    <bean id="address" class="com.company.core.course.Address">
+    <bean id="address" class="com.company.core.courseNote.Address">
         <property name="unitName" value="A-42"/>
         <property name="area" value="Baku"/>
         <property name="pin" value="123"/>

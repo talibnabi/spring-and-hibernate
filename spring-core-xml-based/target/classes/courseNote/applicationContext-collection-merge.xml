@@ -2,14 +2,14 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="details" abstract="true" class="com.company.core.course.Details">
+    <bean id="details" abstract="true" class="com.company.core.courseNote.Details">
         <property name="details">
             <props>
                 <prop key="email">admin@gmail.com</prop>
             </props>
         </property>
     </bean>
-    <bean id="emailDetails" parent="details" class="com.company.core.course.EmailDetails">
+    <bean id="emailDetails" parent="details" class="com.company.core.courseNote.EmailDetails">
         <property name="details">
             <props merge="true">
                 <prop key="email1">user@gmail.com</prop>

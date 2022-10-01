@@ -2,7 +2,6 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="album" class="com.company.core.course.Album">
-        <property name="albumName" value="album1"/>
-    </bean>
+    <bean id="init" class="com.company.core.courseNote.Initializer"/>
+    <bean id="init-dependent" class="com.company.core.courseNote.InitializerDependent" depends-on="init"/>
 </beans>

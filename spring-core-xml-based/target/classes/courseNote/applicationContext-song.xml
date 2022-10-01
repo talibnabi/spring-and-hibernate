@@ -3,9 +3,8 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="artist" class="com.company.core.course.Artist">
-        <property name="artistId" value="1"/>
-        <property name="artistFirstName" value="Alisa"/>
-        <property name="artistLastName" value="Aslan"/>
+    <bean id="song" class="com.company.core.courseNote.Song">
+        <property name="songName" value="Winter"/>
+        <property name="song" value="Host"/>
     </bean>
 </beans>
