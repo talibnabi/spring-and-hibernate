@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="person" abstract="true" class="com.company.core.myNote.handlingJavaCollections.Person">
+        <property name="properties">
+            <props>
+                <prop key="name">name</prop>
+                <prop key="age">age</prop>
+            </props>
+        </property>
+    </bean>
+    <bean id="soldier" class="com.company.core.myNote.handlingJavaCollections.Soldier">
+        <property name="properties">
+            <props merge="true">
+                <prop key="name">Alisa</prop>
+                <prop key="age">20</prop>
+            </props>
+        </property>
+    </bean>
+</beans>

@@ -1,30 +1,22 @@
 package com.company.core.myNote.handlingJavaCollections;
 
+import java.util.Properties;
+
 public abstract class Person {
-    private String fullName;
-    private int age;
+    private Properties properties;
 
-    public String getFullName() {
-        return fullName;
+    public Properties getProperties() {
+        return properties;
     }
 
-    public void setFullName(String fullName) {
-        this.fullName = fullName;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
+    public void setProperties(Properties properties) {
+        this.properties = properties;
     }
 
     @Override
     public String toString() {
         return "Person{" +
-                "fullName='" + fullName + '\'' +
-                ", age=" + age +
+                "properties=" + properties +
                 '}';
     }
 }

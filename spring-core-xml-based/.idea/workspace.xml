@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/CollectionHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/myNote/app-context-collection-handling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/myNote/app-context-soldier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/handlingJavaCollections/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/myNote/app-context-collection-handling.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/myNote/app-context-collection-handling.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -54,20 +54,7 @@
       <recent name="C:\Spring-Courses\spring-and-hibernate-for-beginners\spring-core-xml-based\src\main\resources\course" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.company.core.myNote.mergingCollection.Main">
-    <configuration name="AlbumSongMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.core.courseNote.AlbumSongMain" />
-      <module name="spring-core-xml-based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.core.courseNote.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.company.core.myNote.handlingJavaCollections.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.myNote.lazyInitialization.Main" />
       <module name="spring-core-xml-based" />
@@ -107,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.company.core.myNote.handlingJavaCollections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.core.myNote.handlingJavaCollections.Main" />
+      <module name="spring-core-xml-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.core.myNote.handlingJavaCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.company.core.myNote.mergingCollection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.core.myNote.mergingCollection.Main" />
       <module name="spring-core-xml-based" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.company.core.myNote.handlingJavaCollections.Main" />
         <item itemvalue="Application.com.company.core.myNote.mergingCollection.Main" />
         <item itemvalue="Application.com.company.core.myNote.dependsOn.Main" />
         <item itemvalue="Application.com.company.core.courseNote.InitMain" />
         <item itemvalue="Application.com.company.core.myNote.lazyInitialization.Main" />
-        <item itemvalue="Application.com.company.core.courseNote.AlbumSongMain" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="13105000" />
+      <workItem from="1664612061247" duration="15204000" />
     </task>
     <servers />
   </component>
