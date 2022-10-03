@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a404ee-ea2c-4fdb-a610-cb064df7f502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowire/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowire/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowire/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowire/ProductConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireBased/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireBased/UserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireBased/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireBased/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireCollection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireCollection/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireCollection/ProductConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/src/main/java/com/company/core/autowireCollection/ProductViewer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/innerBean/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/core/myNote/innerBean/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +63,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "20f18043bd00031db6ca95786a6bb3a0"
+    "spring.configuration.checksum": "727e36ad6d604789c403dfc6a086a3d6"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -139,7 +156,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664512570866</updated>
       <workItem from="1664512573419" duration="13879000" />
-      <workItem from="1664612061247" duration="17257000" />
+      <workItem from="1664612061247" duration="17856000" />
+      <workItem from="1664756285209" duration="694000" />
     </task>
     <servers />
   </component>
