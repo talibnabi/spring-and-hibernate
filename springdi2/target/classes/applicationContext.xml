@@ -6,5 +6,8 @@
     <bean id="myFortune" class="com.company.springdi2.HappyFortuneService"/>
     <bean id="myCoach" class="com.company.springdi2.CricketCoach">
         <property name="fortuneService" ref="myFortune"/>
+        <property name="emailAddress" value="tlbnbnabi@gmail.com"/>
+        <property name="team" value="nrdtln"/>
     </bean>
+
 </beans>
