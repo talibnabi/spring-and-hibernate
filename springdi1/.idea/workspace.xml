@@ -5,51 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46d2ceef-cb99-4ce0-8b5d-dcda1cea99c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/spring-and-hibernate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-autowiring/spring-autowiring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-core-xml-based/spring-core-xml-based.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-core/spring-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-java-based-configuration/spring-java-based-configuration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/java/com/company/springcorefirst/BaseballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/java/com/company/springcorefirst/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/java/com/company/springcorefirst/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/java/com/company/springcorefirst/MyLoggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/java/com/company/springcorefirst/SpringsecurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/java/com/company/springcorefirst/TrackCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcorefirst/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/BaseballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/HelloSpringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/TrackCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcoresecond/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/ApplicationStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/BasketballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcoresecond/src/main/java/com/company/springcorefirst/TrackCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670760636205</updated>
-      <workItem from="1670760638495" duration="1852000" />
+      <workItem from="1670760638495" duration="2426000" />
     </task>
     <servers />
   </component>

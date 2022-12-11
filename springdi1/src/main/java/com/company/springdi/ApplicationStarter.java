@@ -8,6 +8,8 @@ public class ApplicationStarter {
         Coach coach = context.getBean("myCoach", Coach.class);
         String workOut = coach.getDailyWorkout();
         System.out.println(workOut);
+        String fortune = coach.getDailyFortune();
+        System.out.println(fortune);
         context.close();
     }
 }
