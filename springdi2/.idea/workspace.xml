@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb3c3c12-a2b5-4e97-aa9a-66c4ce7a2080" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springdi1/src/main/java/com/company/springdi/TrackCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi2/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi2/CricketCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi2/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi2/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi2/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLearningAfter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springdi1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdi1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdi1/src/main/java/com/company/springdi/ApplicationStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdi1/src/main/java/com/company/springdi/ApplicationStarter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdi1/src/main/resources/applicationConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdi1/src/main/resources/applicationConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdi1/target/classes/applicationConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdi1/target/classes/applicationConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/springdi2/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi2/MyApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670779241905</updated>
-      <workItem from="1670779244254" duration="823000" />
+      <workItem from="1670779244254" duration="2633000" />
     </task>
     <servers />
   </component>
