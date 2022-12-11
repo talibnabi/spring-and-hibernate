@@ -7,4 +7,7 @@
     <bean id="myCoach" class="com.company.springdi.BasketballCoach">
         <constructor-arg ref="happyFortune"/>
     </bean>
+    <bean id="myCoach2" class="com.company.springdi.TrackCoach">
+        <constructor-arg ref="happyFortune"/>
+    </bean>
 </beans>
