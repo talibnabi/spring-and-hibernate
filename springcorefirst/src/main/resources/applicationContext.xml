@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--    <bean id="myCoach2" class="com.company.springcorefirst.BaseballCoach">-->
+
+    <!--    </bean>-->
+
+    <bean id="myLoggerConfig" class="com.company.springcorefirst.MyLoggerConfig" init-method="initLogger">
+        <property name="rootLoggerLevel" value="FINE"/>
+        <property name="printedLoggerLevel" value="FINE"/>
+    </bean>
+
+    <bean id="myCoach" class="com.company.springcorefirst.TrackCoach">
+
+    </bean>
+
+</beans>

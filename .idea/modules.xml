@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-and-hibernate.iml" filepath="$PROJECT_DIR$/.idea/spring-and-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-autowiring/spring-autowiring.iml" filepath="$PROJECT_DIR$/spring-autowiring/spring-autowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-core/spring-core.iml" filepath="$PROJECT_DIR$/spring-core/spring-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-core-xml-based/spring-core-xml-based.iml" filepath="$PROJECT_DIR$/spring-core-xml-based/spring-core-xml-based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-java-based-configuration/spring-java-based-configuration.iml" filepath="$PROJECT_DIR$/spring-java-based-configuration/spring-java-based-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcorefirst/springcorefirst.iml" filepath="$PROJECT_DIR$/springcorefirst/springcorefirst.iml" />
+    </modules>
+  </component>
+</project>
