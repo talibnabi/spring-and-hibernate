@@ -1,5 +1,6 @@
 package com.company.springdi2;
 
+
 public class CricketCoach implements Coach {
     private FortuneService fortuneService;
 
