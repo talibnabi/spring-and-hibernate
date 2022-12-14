@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32f33c5e-9744-41b4-a005-7215374754ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannproject/src/main/java/com/company/springdi/FortuneService.java" afterDir="false" />
+    <list default="true" id="b7595c98-b743-4eb9-a1fb-7fdaed4854fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/MyCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/RandomFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/RandomFortuneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springconfigjavannt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/FootballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/FootballCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +34,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -48,34 +57,37 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IsfH2tx5KpQAlNmCejQagtEsEt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2ItxPSNHFgzMlpUbr1MmhhgYPZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/spring-and-hibernate/springdiwithannproject/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\spring-and-hibernate\springdiwithannproject\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.springann.MyApp" />
-      <module name="springconfigjavannt" />
+      <option name="MAIN_CLASS_NAME" value="com.company.springdi.MyApp" />
+      <module name="springdiwithannproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.springann.*" />
+          <option name="PATTERN" value="com.company.springdi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +104,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32f33c5e-9744-41b4-a005-7215374754ba" name="Changes" comment="" />
-      <created>1670975121741</created>
+      <changelist id="b7595c98-b743-4eb9-a1fb-7fdaed4854fe" name="Changes" comment="" />
+      <created>1671014659121</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670975121741</updated>
-      <workItem from="1670975124114" duration="4817000" />
+      <updated>1671014659121</updated>
+      <workItem from="1671014660968" duration="1624000" />
     </task>
     <servers />
   </component>
@@ -114,8 +126,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
