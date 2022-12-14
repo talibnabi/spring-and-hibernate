@@ -11,5 +11,6 @@ public class MyApp {
         System.out.println(coach);
         System.out.println(coach1);
         System.out.println(coach==coach1);
+        context.close();
     }
 }
