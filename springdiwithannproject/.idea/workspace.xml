@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7595c98-b743-4eb9-a1fb-7fdaed4854fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/src/main/java/com/company/spring/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/src/main/java/com/company/spring/FootballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/src/main/java/com/company/spring/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/src/main/java/com/company/spring/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/src/main/java/com/company/spring/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscope/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7595c98-b743-4eb9-a1fb-7fdaed4854fe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671014659121</updated>
-      <workItem from="1671014660968" duration="3477000" />
+      <workItem from="1671014660968" duration="3748000" />
     </task>
     <servers />
   </component>
