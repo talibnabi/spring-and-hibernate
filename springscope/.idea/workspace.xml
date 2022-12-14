@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a643c065-963b-4d98-bcfd-ccc3775f3ebc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/src/main/java/com/company/spring/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/src/main/java/com/company/spring/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/src/main/java/com/company/spring/RandomFortune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/src/main/resources/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springscopproject/target/classes/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdiwithannproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdiwithannproject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a643c065-963b-4d98-bcfd-ccc3775f3ebc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
