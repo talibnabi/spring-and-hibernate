@@ -20,7 +20,7 @@ public class MyCoach implements Coach {
     }
 
     @Override
-    public List<String> getDailyFortune() throws IOException {
+    public String getDailyFortune() throws IOException {
         return service.getFortune();
     }
 }

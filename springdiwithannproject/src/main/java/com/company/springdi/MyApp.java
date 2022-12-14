@@ -9,6 +9,6 @@ public class MyApp {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
         Coach coach = context.getBean("myCoach", Coach.class);
         System.out.println(coach.getDailyWorkout());
-        coach.getDailyFortune().forEach(System.out::println);
+        System.out.println(coach.getDailyFortune());
     }
 }

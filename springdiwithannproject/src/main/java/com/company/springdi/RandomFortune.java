@@ -8,17 +8,22 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 
 @Component
 public class RandomFortune implements FortuneService {
+    private static final Random random = new Random();
+
     @Override
-    public List<String> getFortune() throws IOException {
+    public String getFortune() throws IOException {
         List<String> list = new ArrayList<>();
         list.add("Happy");
         list.add("Bad");
         list.add("Normal");
         writeListToFile("data.txt", list);
-        return readListFromFile("data.txt");
+        List<String> stringList = readListFromFile("data.txt");
+        int index = random.nextInt(stringList.size());
+        return stringList.get(index);
     }
 
     private List<String> readListFromFile(String filePath) {

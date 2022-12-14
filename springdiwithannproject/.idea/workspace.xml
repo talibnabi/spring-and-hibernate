@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7595c98-b743-4eb9-a1fb-7fdaed4854fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/MyCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/RandomFortune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/RandomFortuneService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springconfigjavannt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/FootballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/FootballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/springdi/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/FortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/springdi/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/springdi/RandomFortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/springdi/RandomFortune.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +41,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ItxPSNHFgzMlpUbr1MmhhgYPZM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -109,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671014659121</updated>
-      <workItem from="1671014660968" duration="1624000" />
+      <workItem from="1671014660968" duration="2289000" />
     </task>
     <servers />
   </component>
@@ -126,5 +112,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
