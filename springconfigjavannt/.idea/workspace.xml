@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32f33c5e-9744-41b4-a005-7215374754ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springann/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springann/FootballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springann/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/springann/TennisCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/FootballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/HappyFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/java/com/company/springann/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdiwithannt/target/classes/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdi3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdi3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdiwithannt/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdiwithannt/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +50,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IsfH2tx5KpQAlNmCejQagtEsEt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -93,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670975121741</updated>
-      <workItem from="1670975124114" duration="3032000" />
+      <workItem from="1670975124114" duration="4624000" />
     </task>
     <servers />
   </component>
@@ -110,5 +115,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
