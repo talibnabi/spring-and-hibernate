@@ -15,7 +15,7 @@ import java.util.Random;
 
 @Component
 public class RandomFortune implements FortuneService {
-    
+
     public RandomFortune() {
 
     }
@@ -23,21 +23,18 @@ public class RandomFortune implements FortuneService {
     private static final Random random = new Random();
 
     @Override
+    @PostConstruct
     public String getFortune() {
         List<String> list = new ArrayList<>();
         list.add("Happy");
         list.add("Bad");
         list.add("Normal");
         writeListToFile("data.txt", list);
-        List<String> stringList = readFortuneFromFile("data.txt");
+        List<String> stringList = readListFromFile("data.txt");
         int index = random.nextInt(stringList.size());
         return stringList.get(index);
     }
 
-    @PostConstruct
-    public List<String> readFortuneFromFile(String filePath) {
-        return readListFromFile(filePath);
-    }
 
     @PreDestroy
     public void destroy() {
