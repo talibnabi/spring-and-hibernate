@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db2328c-892e-45ac-a60f-cdbe471b9efd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springdi2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springdi2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/src/main/java/com/company/springann/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/src/main/java/com/company/springann/FootballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/src/main/java/com/company/springann/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/src/main/java/com/company/springann/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springconfigjavannt/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springconfigjavannt/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springconfigjavannt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springconfigjavannt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springconfigjavannt/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springconfigjavannt/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670788417317</updated>
-      <workItem from="1670788418863" duration="8892000" />
+      <workItem from="1670788418863" duration="8970000" />
     </task>
     <servers />
   </component>
